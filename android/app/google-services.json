@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335287396432",
+    "project_id": "englishgermantranslation-21f29",
+    "storage_bucket": "englishgermantranslation-21f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335287396432:android:80024371ba82537e364955",
+        "android_client_info": {
+          "package_name": "com.englishgermantranslation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqWGlP4sCnMn6GuK7yHM9pJDOStPcnlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
